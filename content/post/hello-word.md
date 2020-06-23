@@ -8,3 +8,6 @@ timeToRead = 0
 title = "hello word"
 
 +++
+this is brest
+
+![](/images/favicon.svg)
